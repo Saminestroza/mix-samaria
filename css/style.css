@@ -254,3 +254,18 @@ footer{
 .texto.rojo{
 	color: var(--color-rojo);
 }
+
+#form{
+	background-color: #989898;
+	padding: 5% 0%;
+}
+
+.boton{
+	
+	background-color: var(--color-rojo);
+	color: #fff;
+	padding: 10px 20px;
+	align-content: center;
+	margin-left: 45%;
+	margin-top: 2%;
+}
